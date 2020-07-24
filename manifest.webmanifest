@@ -1,6 +1,6 @@
 {
-  "name": "app",
-  "short_name": "app",
+  "name": "COVIDSafeEvents",
+  "short_name": "COVIDSafeEvents",
   "theme_color": "#004ba8",
   "background_color": "#257ce8",
   "display": "standalone",
